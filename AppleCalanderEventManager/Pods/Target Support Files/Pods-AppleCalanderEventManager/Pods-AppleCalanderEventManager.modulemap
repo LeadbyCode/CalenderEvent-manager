@@ -1,0 +1,6 @@
+framework module Pods_AppleCalanderEventManager {
+  umbrella header "Pods-AppleCalanderEventManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
